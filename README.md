@@ -5,4 +5,4 @@
 
 **PART-09** Week 9 was mainly focused on inheritance, explaining the concept of and creating an interface, inheritance hierarchy and object polymorphism.
 
-**PART-10** Week 10 introduced handling collections as streams (.filter, .map, .reduce, .forEach, .sorted...), using the comparable class, advanced sorting with streams, using StringBuilder, enums and iterator.
+**PART-10** Week 10 introduced handling collections as streams (.filter, .map, .reduce, .forEach, .sorted...), using the comparable class, advanced sorting with streams, using StringBuilder, enums, regular expressions and iterator.
